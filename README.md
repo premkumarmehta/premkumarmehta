@@ -13,6 +13,8 @@ I'm a dedicated developer with a strong foundation in web development and a pass
 - **Other Tools:** Git, GitHub, Hoppscotch, Visual Studio Code  
 
 ## 📌 Projects
+- 🧑‍💻 **New Portfolio** - https://prem-portfolio-sable.vercel.app/
+- 🚀 **Student Productivity Manager** - https://student-productivity-manager-jet.vercel.app/
 - 🌐 **TargetBCA** – https://premkumarmehta.github.io/TargetBCA/
 - 🧑‍💻 **Portfolio** - https://premkumarmehta.github.io/prem-kumar/
 - 🔊 **Shiva Dj** - https://premkumarmehta.github.io/shiva-dj/
